@@ -8,8 +8,9 @@
 
 
 <p align="justify">Sou formado em Engenharia Elétrica mas Engenheiro de Software por dedicação e atuação. Tenho mais de 17 anos de experiência em desenvolvimento web, com foco em PHP, MySQL , Laravel, Vue.js, Nuxt.js, Node.js, AWS, e Web Design. <br><br>Sou Mestre pelo Instituto Tecnológico de Aeronáutica (ITA) de São José dos Campos, SP, onde realizei pesquisas voltada a aplicação de tecnologia na educação e desenvolvi uma plataforma Web de experimêntos controlados remotamente com foco em Radiação Ionizante.
-
-<img align="right" height="180" src="https://www.migotolabs.com.br/_next/image?url=%2Flogo.png&w=640&q=75"  />
+<a href="https://www.migotolabs.com.br/" target="_blank">
+  <img align="right" height="180" src="https://www.migotolabs.com.br/_next/image?url=%2Flogo.png&w=640&q=75"  />
+</a>
 <p align="justify">Conheço tambem tecnologias como Python, React, React Native, Metabase, N8N, Jenkins mas atualmente estou iniciando minha carreira em Java e aprendendo bastante sobre as aplicações e frameworks dessa linguagem, mas ainda assim continuo estudando e desenvolvendo projetos com outras tecnologias.</p>
 <p align="justify">Ultimamente tenho prototipado um novo projeto para alcançar pessoas que desejam aprender sobre tecnologia e se desenvolverem e não possuem condições financeiras.<br> O nome do meu projeto é MigLabs uma plataforma de ensino de tecnologia gratuito.</p>
 
